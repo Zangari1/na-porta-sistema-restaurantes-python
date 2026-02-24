@@ -14,10 +14,7 @@ O sistema simula o gerenciamento de restaurantes via terminal, permitindo cadast
 
 ## 📂 Estrutura do Projeto
 
-📁 na-porta-python-alura  
-└── app.py  
-
-- **app.py** → Arquivo principal responsável pela execução do sistema e controle do fluxo da aplicação.
+- **app.py** → Arquivo principal responsável pela execução do sistema.
 
 ---
 
