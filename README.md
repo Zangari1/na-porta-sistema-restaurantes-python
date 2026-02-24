@@ -42,15 +42,23 @@ O sistema simula o gerenciamento de restaurantes via terminal, permitindo cadast
 
 ### 1️⃣ Clone o repositório
 
+```bash
 git clone https://github.com/seuusuario/na-porta-python-alura.git
+```
 
-### 2️⃣ Acesse a pasta
+### 2️⃣ Entre na pasta criada pelo clone
 
+```bash
 cd na-porta-python-alura
+```
 
-### 3️⃣ Execute o projeto
+### 3️⃣ Execute o arquivo
 
+```bash
 python app.py
+```
+
+> ⚠️ É necessário ter o Python 3 instalado na máquina.
 
 ---
 
